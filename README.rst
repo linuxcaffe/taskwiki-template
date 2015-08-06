@@ -7,6 +7,14 @@ This is a simple plugin for Vim that will allow you to have a set of
 templates for certain file types. It is useful to add boilerplate code
 like guards in C/C++ headers, or license disclaimers.
 
+About this fork
+===============
+This vim-templates fork is to add some taskwiki-specific templates, so that taskwarrior users 
+can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.wiki files. 
+
+screenshot:
+
+
 
 Installation
 ============
