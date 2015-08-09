@@ -10,8 +10,8 @@ Files			::
 
 = %CLASS% Area =
 
-== %CLASS Area Tasks ==
-%NUL%=== %CLASS% Area Scheduled Tasks | +PENDING area:%FILE% sched.before:tomorrow===
+== %CLASS% Area Tasks ==
+%NUL%=== %CLASS% Area Scheduled Tasks | +PENDING area:%FILE% sched.before:tomorrow ===
 %NUL%=== %CLASS% Area Pending Tasks | +PENDING area:%FILE% ===
 %NUL%=== %CLASS% Area Waiting Tasks | +WAITING area:%FILE% ===
 %NUL%=== %CLASS% Area Completed Tasks | +COMPLETED area:%FILE% | status:completed ===
