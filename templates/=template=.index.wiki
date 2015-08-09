@@ -1,0 +1,14 @@
+%FULLPATH% %FFILE% -- created: %FDATE%
+----
+Index Name		:: %FILE%
+Description		:: %HERE%
+Manager			:: %USER%
+Files			:: %FULLPATH%
+----
+
+= %FULLPATH% index =
+
+== %FULLPATH% index Notes/ Brainstorm ==
+
+
+# vim: foldlevel=3

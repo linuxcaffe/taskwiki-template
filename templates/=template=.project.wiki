@@ -1,0 +1,37 @@
+*%FFILE%* -- created: %FDATE%
+
+Project Name		:: %CLASS%
+Description		:: %HERE%
+Client			:: 
+Manager			:: %USER%
+Files			:: 
+----
+
+
+= %CLASS% Project =
+
+== Tasks ==
+%NUL%=== %CLASS% Scheduled Tasks | +PENDING project:%FILE% sched.before:today ===
+%NUL%=== %CLASS% Pending Tasks | +PENDING project:%FILE% ===
+%NUL%=== %CLASS% Waiting Tasks | +WAITING project:%FILE% ===
+%NUL%=== %CLASS% Completed Tasks | +COMPLETED project:%FILE% | status:completed ===
+
+== %CLASS% Project Scope ==
+
+== %CLASS% Project Objectives ==
+
+== %CLASS% Project Outcomes ==
+
+== %CLASS% Project People ==
+
+== %CLASS% Project Financial ==
+
+== %CLASS% Project Notes/ Brainstorm ==
+
+== %CLASS% Project Ledger ==
+
+== %CLASS% Project Timelog ==
+
+
+# vim: foldlevel=3
+
