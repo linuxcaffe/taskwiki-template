@@ -13,14 +13,20 @@ This vim-templates fork is to add some taskwiki-specific templates and configura
 can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.wiki files. 
 
 Taskwiki/ Vimwiki/ Taskwarrior Specific Notes:
+============================================
 
 Included templates;
+-------------------
 * =template=.area.wiki
+
 * =template=.index.wiki
+
 * =template=.project.wiki
+
 * =template=.tag.wiki
 
 User-defined varables (in ../extras/taskwiki-template.vim)
+-------------------------------------------------------
 %NULL$   -- required to inhibit taskwiki while editing template
 
 screenshot:
