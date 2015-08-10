@@ -25,9 +25,9 @@ Included templates;
 
 * =template=.tag.wiki
 
-User-defined varables (in ../extras/taskwiki-template.vim)
+User-defined variables (in ../extras/taskwiki-template.vim)
 -------------------------------------------------------
-%NULL$   -- required to inhibit taskwiki while editing template
+%NULL$   (required to inhibit taskwiki while editing template)
 
 screenshot:
 
