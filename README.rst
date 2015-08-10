@@ -21,7 +21,7 @@ To "instantly" start a project taskwiki/vimwiki file, simply enter;
     
 and, for proj:name, the file will open pre-populated with metadata, project headings and pending/scheduled/completed tasks in ViewPorts. The templates are easy to customize.
 
-Included templates;
+Wiki templates;
 -------------------
 * =template=.area.wiki
 
@@ -31,7 +31,7 @@ Included templates;
 
 * =template=.tag.wiki
 
-User-defined variables and configs
+Wiki-related user-defined variables and configs
 ----------------------------------
 (in ../extra/taskwiki-template.vim)
 
