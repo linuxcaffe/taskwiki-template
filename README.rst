@@ -15,6 +15,12 @@ can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.
 Taskwiki/ Vimwiki/ Taskwarrior Specific Notes:
 ============================================
 
+To "instantly" start a project taskwiki/vimwiki file, simply enter;
+
+    vi ~/path/name.project.wiki
+    
+ and, for proj:name, the file will open with prepopulated metadata, project headings and pending/ scheduled/ completed tasks in ViewPorts.
+
 Included templates;
 -------------------
 * =template=.area.wiki
