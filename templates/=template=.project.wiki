@@ -1,7 +1,7 @@
 *%FFILE%* -- created: %FDATE%
 
 Project Name		:: %CLASS%
-Description		:: %HERE%
+Description		::  %HERE%
 Client			:: 
 Manager			:: %USER%
 Files			:: 

@@ -1,7 +1,7 @@
 %FULLPATH% %FFILE% -- created: %FDATE%
 ----
 Index Name		:: %FILE%
-Description		:: %HERE%
+Description		::  %HERE%
 Manager			:: %USER%
 Files			:: %FULLPATH%
 ----

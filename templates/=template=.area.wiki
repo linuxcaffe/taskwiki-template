@@ -1,7 +1,7 @@
 *%CLASS%* Area wiki file -- %FFILE% -- created: %FDATE%
 ----
 Area Name		:: %CLASS%
-Description		:: %HERE%
+Description		::  %HERE%
 Client			:: 
 Manager			:: %USER%
 Files			:: 
