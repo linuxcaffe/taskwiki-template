@@ -1,4 +1,5 @@
 %FULLPATH% %FFILE% -- created: %FDATE%
+[[/index|taskwiki]] -- [[/project/index|projects]] -- [[/area/index|areas]]
 ----
 Index Name		:: %FILE%
 Description		::  %HERE%
