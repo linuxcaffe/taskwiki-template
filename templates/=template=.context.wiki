@@ -1,0 +1,37 @@
+*%FFILE%* -- created: %FDATE%
+
+Context Name		:: %CLASS%
+Description		:: %HERE%
+Client			:: 
+Manager			:: %USER%
+Files			:: 
+----
+
+
+= %CLASS% Context =
+
+== Tasks ==
+%NUL%=== %CLASS% Scheduled Tasks | +PENDING @%FILE% sched.before:today ===
+%NUL%=== %CLASS% Pending Tasks | +PENDING @%FILE% ===
+%NUL%=== %CLASS% Waiting Tasks | +WAITING @%FILE% ===
+%NUL%=== %CLASS% Completed Tasks | +COMPLETED @%FILE% | status:completed ===
+
+== %CLASS% Context Scope ==
+
+== %CLASS% Context Objectives ==
+
+== %CLASS% Context Outcomes ==
+
+== %CLASS% Context People ==
+
+== %CLASS% Context Financial ==
+
+== %CLASS% Context Notes/ Brainstorm ==
+
+== %CLASS% Context Ledger ==
+
+== %CLASS% Context Timelog ==
+
+
+# vim: foldlevel=3
+

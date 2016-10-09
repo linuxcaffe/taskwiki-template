@@ -14,6 +14,13 @@ _What happened today?_
 %NUL%== Calls to Make | +PENDING desc.startswith:call or +call ==
 %NUL%== Things To Get | +PENDING desc.startswith:get or desc.startswith:pickup or +get ==
 
+People
+Groups
+Things
+Locations
+Events
+Ideas
+
 == Sleep ==
 
 == Food ==

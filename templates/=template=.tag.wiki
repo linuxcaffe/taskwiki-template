@@ -1,10 +1,11 @@
-*%FILE%* Tag wiki file -- %FFILE% -- created: %FDATE%
+[[index|taskwiki]]/[[../tag/index|tag]]/%FFILE%
 ----
-Tag Name		:: %FILE%
-Description		::  %HERE%
-Client			:: 
-Manager			:: %USER%
-Files			:: 
+Tag Name	:: %FILE%
+Description	::  %HERE%
+Created		:: %FDATE
+Manager		:: %USER%
+Client		:: 
+Files		:: 
 ----
 
 

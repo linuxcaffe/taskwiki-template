@@ -1,15 +1,11 @@
-%FULLPATH% %FFILE% -- created: %FDATE%
-[[/index|taskwiki]] -- [[/project/index|projects]] -- [[/area/index|areas]]
+[[/index|Taskwiki]] -- [[/project/index|Projects]] -- [[/area/index|Areas]] -- Diary
 ----
 Index Name		:: %FILE%
 Description		::  %HERE%
+Created			:: %FDATE%
 Manager			:: %USER%
 Files			:: %FULLPATH%
 ----
-
-= %FULLPATH% index =
-
-== %FULLPATH% index Notes/ Brainstorm ==
 
 
 # vim: foldlevel=3

@@ -1,20 +1,25 @@
-*%FFILE%* -- created: %FDATE%
-
-Project Name		:: %CLASS%
-Description		::  %HERE%
-Client			:: 
-Manager			:: %USER%
-Files			:: 
+[[index|taskwiki]]/[[../project/index|project]]/%FFILE%
 ----
-
-
+Project Name	:: %CLASS%
+Description	::  %HERE%
+Created		:: %FDATE%
+Manager		:: %USER%
+Client		:: 
+Files		:: 
+----
 = %CLASS% Project =
-
-== Tasks ==
-%NUL%=== %CLASS% Scheduled Tasks | +PENDING project:%FILE% sched.before:today ===
-%NUL%=== %CLASS% Pending Tasks | +PENDING project:%FILE% ===
-%NUL%=== %CLASS% Waiting Tasks | +WAITING project:%FILE% ===
-%NUL%=== %CLASS% Completed Tasks | +COMPLETED project:%FILE% | status:completed ===
+== %CLASS% Tasks ==
+%NUL%=== Scheduled | +PENDING project:%FILE% sched.before:today | project:%FILE%  ===
+%NUL%=== Pending | +PENDING project:%FILE% ===
+%NUL%=== Waiting | +WAITING project:%FILE% ===
+%NUL%=== Completed or Deleted | ( +COMPLETED or +DELETED ) project:%FILE% | project:%FILE% status:completed ===
+----
+- Events
+- Groups
+- Ideas
+- Locations
+- People
+- Things
 
 == %CLASS% Project Scope ==
 
@@ -32,6 +37,6 @@ Files			::
 
 == %CLASS% Project Timelog ==
 
-
+----
 # vim: foldlevel=3
 

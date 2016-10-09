@@ -1,0 +1,6 @@
+[[index|taskwiki]]/[[../project/index|project]]/%FFILE%
+----
+Created		:: %FDATE%
+Manager		:: %USER%
+----
+ %HERE%
