@@ -1,5 +1,5 @@
 =============================
- Simple Vim templates plugin
+ Simple Vim templates plugin, adapted for taskwiki
 =============================
 :Author: David J Patrick
 
