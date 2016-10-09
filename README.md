@@ -1,12 +1,9 @@
-=============================
- Simple Vim templates plugin, adapted for taskwiki
-=============================
+## Simple Vim templates plugin, adapted for taskwiki
 :Author: David J Patrick
 
 This is a fork of the [vim-template plugin](https://github.com/aperezdc/vim-template) by Adrian Perez <aperez@igalia.com>, that allows you to have a set of taskwiki-specific templates and configurations, so that taskwarrior users can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.wiki files. 
 
-Taskwiki/ Vimwiki/ Taskwarrior Specific Notes:
-============================================
+### Taskwiki/ Vimwiki/ Taskwarrior Specific Notes:
 
 To "instantly" start a project taskwiki/vimwiki file, simply enter;
 
@@ -14,8 +11,7 @@ To "instantly" start a project taskwiki/vimwiki file, simply enter;
     
 and, for proj:name, the file will open pre-populated with metadata, project headings and pending/scheduled/completed tasks in ViewPorts. The templates are easy to customize.
 
-Wiki templates;
--------------------
+#### Wiki templates;
 * =template=.area.wiki
 
 * =template=.index.wiki
@@ -24,8 +20,7 @@ Wiki templates;
 
 * =template=.tag.wiki
 
-Wiki-related user-defined variables and configs
-----------------------------------
+#### Wiki-related user-defined variables and configs
 (in ../extra/taskwiki-template.vim)
 
 %NULL$   (required to inhibit taskwiki while editing template)
