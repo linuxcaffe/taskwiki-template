@@ -1,9 +1,9 @@
 =============================
  Simple Vim templates plugin
 =============================
-:Author: Adrian Perez <aperez@igalia.com>
+:Author: 
 
-This is a fork of a plugin, vim-template, that allows you to have a set of
+This is a fork of a vim-template plugin, by Adrian Perez <aperez@igalia.com>, that allows you to have a set of
  taskwiki-specific templates and configurations, so that taskwarrior users 
 can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.wiki files. 
 
