@@ -21,22 +21,6 @@ Files		::
 - People
 - Things
 
-== %CLASS% Project Scope ==
-
-== %CLASS% Project Objectives ==
-
-== %CLASS% Project Outcomes ==
-
-== %CLASS% Project People ==
-
-== %CLASS% Project Financial ==
-
-== %CLASS% Project Notes/ Brainstorm ==
-
-== %CLASS% Project Ledger ==
-
-== %CLASS% Project Timelog ==
-
 ----
 # vim: foldlevel=3
 
