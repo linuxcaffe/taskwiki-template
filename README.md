@@ -1,5 +1,5 @@
 ## Simple Vim templates plugin, adapted for taskwiki
-:Author: David J Patrick
+:Author of README updates: David J Patrick
 
 This is a fork of the [vim-template plugin](https://github.com/aperezdc/vim-template) by Adrian Perez <aperez@igalia.com>, that allows you to have a set of taskwiki-specific templates and configurations, so that taskwarrior users can more easily start using taskwiki (+vimwiki, +two) to make "instant" project.wiki files. 
 
